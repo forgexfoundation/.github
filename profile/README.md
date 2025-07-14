@@ -44,12 +44,12 @@ Meet the passionate individuals building ForgeX — an open-source ecosystem pow
 
 | Role                    | GitHub Profile                                     |
 |-------------------------|----------------------------------------------------|
-| Founder & Visionary Engineer | [@xanmoy](https://github.com/xanmoy)               |
+| Founder & Core Developer | [@xanmoy](https://github.com/xanmoy)               |
+| Developer (Core Developer) | [@NeilDogii](https://github.com/NeilDogii)           |
 | Public Relations Lead   | [@bhavini-lakhotia](https://github.com/bhavini-lakhotia) |
+| Developer (Core Developer) | [@XronTrix10](https://github.com/XronTrix10)       |
 | Strategic Alliances Lead | [@Anushwa2003](https://github.com/Anushwa2003)          |
-| Developer (Software Engineer) | [@XronTrix10](https://github.com/XronTrix10)       |
-| Developer (DevOps Tech Lead) | [@NeilDogii](https://github.com/NeilDogii)           |
-| Developer (Senior DevOps Engineer) | [@Dev-Destructor](https://github.com/Dev-Destructor)       |
+| Developer (Core Developer) | [@Dev-Destructor](https://github.com/Dev-Destructor)       |
 
 > ✨ Want to join the team or contribute? [Open a PR](https://github.com/ForgeXFoundation) or get in touch with us via email.
 
