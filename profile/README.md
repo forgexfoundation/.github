@@ -38,7 +38,22 @@ We welcome contributors of all backgrounds and skill levels. You can help us:
 **👉 Interested? Start by checking our individual project READMEs.**
 
 ---
+# 🧠 ForgeX Foundation Team
 
+Meet the passionate individuals building ForgeX — an open-source ecosystem powered by collaboration, curiosity, and code.
+
+| Role                    | GitHub Profile                                     |
+|-------------------------|----------------------------------------------------|
+| Founder & Visionary Engineer | [@xanmoy](https://github.com/xanmoy)               |
+| Public Relations Lead   | [@bhavini-lakhotia](https://github.com/bhavini-lakhotia) |
+| Strategic Alliances Lead | [@Anushwa2003](https://github.com/Anushwa2003)          |
+| Developer (Software Engineer) | [@XronTrix10](https://github.com/XronTrix10)       |
+| Developer (DevOps Tech Lead) | [@NeilDogii](https://github.com/NeilDogii)           |
+| Developer (Senior DevOps Engineer) | [@Dev-Destructor](https://github.com/Dev-Destructor)       |
+
+> ✨ Want to join the team or contribute? [Open a PR](https://github.com/ForgeXFoundation) or get in touch with us via email.
+
+---
 ## 📬 Contact
 
 Have questions or want to collaborate?
