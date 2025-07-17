@@ -50,6 +50,7 @@ Meet the passionate individuals building ForgeX — an open-source ecosystem pow
 | Developer (Core Developer) | [@XronTrix10](https://github.com/XronTrix10)       |
 | Strategic Alliances Lead | [@Anushwa2003](https://github.com/Anushwa2003)          |
 | Developer (Core Developer) | [@Dev-Destructor](https://github.com/Dev-Destructor)       |
+| Public Relations Associate | [@rajanya992](https://github.com/rajanya992)       |
 
 > ✨ Want to join the team or contribute? [Open a PR](https://github.com/ForgeXFoundation) or get in touch with us via email.
 
